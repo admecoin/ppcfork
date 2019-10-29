@@ -65,3 +65,6 @@ The release branch is identified by it's major and minor version number e.g. `re
 The official release tags are always made on a release branch.
 Release branches will typically branch from or merge tested code from the master branch to freeze the code for release.
 Only critical patches can be applied through pull requests directly on this branch, all non critical features should follow the standard path through develop -> master -> release-*
+#### Bitcoin donations welcome: 3BJbCUdJ8mhZn9B2Ncz1JBBEbe1R8816AW
+#### Litcoin donations welcome: MQRLB7gYHBAZuY8erwbMTguG24CBAwgwo4
+#### Dash coin donations welcome: XsXNddLuVLc1b1Q2DDqniSvwYbpq7F2BLe
